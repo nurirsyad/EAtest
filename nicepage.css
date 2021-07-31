@@ -34098,8 +34098,8 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-text-1 {
   font-family: Alata;
-  font-style: normal;
   font-weight: normal;
+  animation-duration: 1000ms;
   margin: -40px auto 18px 0;
 }
 @media (max-width: 1199px) {
@@ -34109,6 +34109,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     margin-top: -40px;
+    font-style: normal;
   }
 }
 
