@@ -149,20 +149,48 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 1767px;
+    min-height: 1862px;
+  }
+
+  .u-section-3 .u-image-1 {
+    height: 171px;
+    margin-top: 20px;
+  }
+
+  .u-section-3 .u-text-9 {
+    width: auto;
+    margin-right: 0;
   }
 
   .u-section-3 .u-text-10 {
+    width: auto;
     margin-right: 310px;
   }
 
+  .u-section-3 .u-text-11 {
+    width: auto;
+  }
+
   .u-section-3 .u-text-12 {
+    width: auto;
     margin-right: 164px;
   }
 
+  .u-section-3 .u-text-13 {
+    width: auto;
+  }
+
   .u-section-3 .u-image-2 {
-    width: 340px;
     height: 236px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-3 .u-text-14 {
+    width: auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
   }
 }.u-section-4 {
   background-image: none;

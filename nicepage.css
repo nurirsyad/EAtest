@@ -34092,7 +34092,7 @@ a.u-link.u-text-hover-grey-90:hover {
   letter-spacing: 0px;
 }
 
-.u-header .u-nav-2 {
+.u-header .u-nav-3 {
   font-size: 1.25rem;
 }
 
@@ -34100,6 +34100,7 @@ a.u-link.u-text-hover-grey-90:hover {
   font-family: Alata;
   font-weight: normal;
   animation-duration: 1000ms;
+  font-style: normal;
   margin: -40px auto 18px 0;
 }
 @media (max-width: 1199px) {
@@ -34109,7 +34110,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     margin-top: -40px;
-    font-style: normal;
   }
 }
 
