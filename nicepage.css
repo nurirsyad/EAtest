@@ -34098,6 +34098,8 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-text-1 {
   font-family: Alata;
+  font-style: normal;
+  font-weight: normal;
   margin: -40px auto 18px 0;
 }
 @media (max-width: 1199px) {
@@ -34107,13 +34109,30 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     margin-top: -40px;
-    font-style: normal;
-    font-weight: normal;
   }
 }
 
+@media (max-width: 767px) {
+  .u-header .u-text-1 {
+    margin-top: 20px;
+    margin-right: 0;
+    margin-left: auto;
+  }
+}
+@media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 75px;
+  }
 
+  .u-header .u-menu-1 {
+    margin-top: 22px;
+  }
 
+  .u-header .u-text-1 {
+    width: auto;
+    margin: -32px auto 28px 0;
+  }
+}
 .u-footer {
   background-image: none;
 }
