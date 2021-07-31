@@ -3,11 +3,11 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 680px;
+  min-height: 640px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin-top: 260px;
+  margin-top: 249px;
   margin-bottom: 0;
 }
 
@@ -39,12 +39,12 @@
   font-size: 0.875rem;
   letter-spacing: 1px;
   animation-duration: 1000ms;
-  margin: -21px auto 60px;
+  margin: -21px auto 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 652px;
+    min-height: 612px;
   }
 
   .u-section-1 .u-layout-cell-1 {
